@@ -1,5 +1,15 @@
 # @keystonejs/fields
 
+## 22.0.1
+
+### Patch Changes
+
+- Updated dependencies [[`15b1132d2`](https://github.com/keystonejs/keystone/commit/15b1132d20d13f79bbf1707e1897b31da887c2b7), [`6f985acc7`](https://github.com/keystonejs/keystone/commit/6f985acc775d6037ac69a01215f962285de78c75), [`4eb4753e4`](https://github.com/keystonejs/keystone/commit/4eb4753e45e5a6ca37bdc756aef7adda7f551da4), [`891cd490a`](https://github.com/keystonejs/keystone/commit/891cd490a17026f4af29f0ed9b9ca411747d1d63), [`5d565ea57`](https://github.com/keystonejs/keystone/commit/5d565ea57853713458329b823bde7a38776b02bc), [`00f19daee`](https://github.com/keystonejs/keystone/commit/00f19daee8bbd75fb58fb76caaa9a3de70ebfcac), [`00f19daee`](https://github.com/keystonejs/keystone/commit/00f19daee8bbd75fb58fb76caaa9a3de70ebfcac)]:
+  - @keystonejs/access-control@8.0.0
+  - @keystonejs/adapter-knex@13.1.0
+  - @keystonejs/adapter-mongoose@11.1.0
+  - @keystonejs/adapter-prisma@3.1.0
+
 ## 22.0.0
 
 ### Major Changes

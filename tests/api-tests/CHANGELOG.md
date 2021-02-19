@@ -1,5 +1,17 @@
 # @keystonejs/api-tests
 
+## 9.1.0
+
+### Minor Changes
+
+- [`5d565ea57`](https://github.com/keystonejs/keystone/commit/5d565ea57853713458329b823bde7a38776b02bc) [#4892](https://github.com/keystonejs/keystone/pull/4892) Thanks [@timleslie](https://github.com/timleslie)! - Added support for configuring the field to use for `search` filtering via the `db: { searchField }` list config option.
+
+### Patch Changes
+
+- Updated dependencies [[`7ae67b857`](https://github.com/keystonejs/keystone/commit/7ae67b857745985061700b0477c3f585b3b8efbf)]:
+  - @keystonejs/test-utils@13.0.0
+  - @keystonejs/fields@22.0.1
+
 ## 9.0.0
 
 ### Major Changes

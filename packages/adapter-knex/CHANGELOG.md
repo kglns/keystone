@@ -1,5 +1,18 @@
 # @keystonejs/adapter-knex
 
+## 13.1.0
+
+### Minor Changes
+
+- [`5d565ea57`](https://github.com/keystonejs/keystone/commit/5d565ea57853713458329b823bde7a38776b02bc) [#4892](https://github.com/keystonejs/keystone/pull/4892) Thanks [@timleslie](https://github.com/timleslie)! - Added support for configuring the field to use for `search` filtering via the `searchField` list adapter config option.
+
+### Patch Changes
+
+- [`00f19daee`](https://github.com/keystonejs/keystone/commit/00f19daee8bbd75fb58fb76caaa9a3de70ebfcac) [#4890](https://github.com/keystonejs/keystone/pull/4890) Thanks [@timleslie](https://github.com/timleslie)! - Fixed a query generation issue when two relationship fields shared the same name.
+
+- Updated dependencies [[`6f985acc7`](https://github.com/keystonejs/keystone/commit/6f985acc775d6037ac69a01215f962285de78c75), [`4eb4753e4`](https://github.com/keystonejs/keystone/commit/4eb4753e45e5a6ca37bdc756aef7adda7f551da4), [`891cd490a`](https://github.com/keystonejs/keystone/commit/891cd490a17026f4af29f0ed9b9ca411747d1d63)]:
+  - @keystonejs/keystone@19.2.1
+
 ## 13.0.1
 
 ### Patch Changes

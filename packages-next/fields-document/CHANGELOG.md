@@ -1,5 +1,34 @@
 # @keystone-next/fields-document
 
+## 3.0.0
+
+### Major Changes
+
+- [`556c1f95f`](https://github.com/keystonejs/keystone/commit/556c1f95f287035493704d6f5d9744fd5e9774b6) [#4836](https://github.com/keystonejs/keystone/pull/4836) Thanks [@mitchellhamilton](https://github.com/mitchellhamilton)! - Changed `NotEditable` component from rendering a div to a span so it can be used for inline elements
+
+### Minor Changes
+
+- [`556c1f95f`](https://github.com/keystonejs/keystone/commit/556c1f95f287035493704d6f5d9744fd5e9774b6) [#4836](https://github.com/keystonejs/keystone/pull/4836) Thanks [@mitchellhamilton](https://github.com/mitchellhamilton)! - Added `fields.multiselect` prop field
+
+### Patch Changes
+
+- [`556c1f95f`](https://github.com/keystonejs/keystone/commit/556c1f95f287035493704d6f5d9744fd5e9774b6) [#4836](https://github.com/keystonejs/keystone/pull/4836) Thanks [@mitchellhamilton](https://github.com/mitchellhamilton)! - Fixed `fields.select` not passing options to the select
+
+* [`556c1f95f`](https://github.com/keystonejs/keystone/commit/556c1f95f287035493704d6f5d9744fd5e9774b6) [#4836](https://github.com/keystonejs/keystone/pull/4836) Thanks [@mitchellhamilton](https://github.com/mitchellhamilton)! - Fixed documentation in JSDocs for component blocks API
+
+- [`d53eb872f`](https://github.com/keystonejs/keystone/commit/d53eb872ffb0396fcdcae34c380acf9739c8ca5d) [#4883](https://github.com/keystonejs/keystone/pull/4883) Thanks [@JedWatson](https://github.com/JedWatson)! - Allowed the document field toolbar to wrap on smaller screens
+
+- Updated dependencies [[`687fd5ef0`](https://github.com/keystonejs/keystone/commit/687fd5ef0f798da996f970af1591411f9cfe0985), [`9a9276eb7`](https://github.com/keystonejs/keystone/commit/9a9276eb7acded979b703b4f3ed8bce781e0718a), [`370c0ee62`](https://github.com/keystonejs/keystone/commit/370c0ee623b515177c3863e66545465c13d5c914), [`2655c0b1b`](https://github.com/keystonejs/keystone/commit/2655c0b1bf714d80d46e1ff4e414b4bce474c23d), [`d9c20ba66`](https://github.com/keystonejs/keystone/commit/d9c20ba66931077f6e18d3497282be328cfb629f), [`0e265f6c1`](https://github.com/keystonejs/keystone/commit/0e265f6c10eadd37f75e5551b22b50236e830086), [`45ea93421`](https://github.com/keystonejs/keystone/commit/45ea93421f9a6cf9b7ccbd983e0c9cbd687ff6af), [`3ca5038a0`](https://github.com/keystonejs/keystone/commit/3ca5038a021105a7452f4e7a4641107caa4ffe3a), [`5d565ea57`](https://github.com/keystonejs/keystone/commit/5d565ea57853713458329b823bde7a38776b02bc), [`00f19daee`](https://github.com/keystonejs/keystone/commit/00f19daee8bbd75fb58fb76caaa9a3de70ebfcac), [`00f19daee`](https://github.com/keystonejs/keystone/commit/00f19daee8bbd75fb58fb76caaa9a3de70ebfcac), [`c63e5d75c`](https://github.com/keystonejs/keystone/commit/c63e5d75cd77cf26f8762bda8143d1c1db6d0e3e), [`0f86e99bb`](https://github.com/keystonejs/keystone/commit/0f86e99bb3aa15f691ab7ff79e5a9ae3d1ac464e), [`5d565ea57`](https://github.com/keystonejs/keystone/commit/5d565ea57853713458329b823bde7a38776b02bc)]:
+  - @keystone-next/types@14.0.0
+  - @keystone-next/admin-ui@10.0.0
+  - @keystone-ui/core@2.0.1
+  - @keystonejs/adapter-knex@13.1.0
+  - @keystonejs/adapter-mongoose@11.1.0
+  - @keystonejs/adapter-prisma@3.1.0
+  - @keystone-next/admin-ui-utils@3.0.1
+  - @keystone-next/fields@5.0.1
+  - @keystonejs/fields@22.0.1
+
 ## 2.0.0
 
 ### Major Changes
